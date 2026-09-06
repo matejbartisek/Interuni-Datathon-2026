@@ -23,4 +23,4 @@ submission_final.csv is a output from 1 STAGE: gas_sensor_pipeline.py
 submission_final_cascaded.csv is a output from 2 STAGE: stage2_cascade_3_vs_5.py - THIS IS THE FINAL FINAL FINAL OUTPUT
 
 
-Sensor types are clearly distinguishable in the train dataset.
+Sensor types are clearly distinguishable in the train dataset. We have studied the sensor types in detail to understand their properties.
