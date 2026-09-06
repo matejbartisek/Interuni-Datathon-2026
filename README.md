@@ -16,3 +16,7 @@ Run the pipeline stages sequentially from the root directory:
 pip install -r requirements.txt
 python gas_sensor_pipeline.py
 python stage2_cascade_3_vs_5.py
+
+
+submission_final.csv is a output from 1 STAGE: gas_sensor_pipeline.py
+submission_final_cascaded.csv is a output from 2 STAGE: stage2_cascade_3_vs_5.py - THIS IS THE FINAL FINAL FINAL OUTPUT
